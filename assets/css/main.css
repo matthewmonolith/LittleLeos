@@ -1979,10 +1979,10 @@ input, select, textarea {
 			margin-top: 0;
 		}
 
-		/* header.major img {
-			width: 30%;
-			height: 30%;
-		} */
+		#logo {
+			width: 20%;
+			height: 20%;
+		}
 
 /* Form */
 
