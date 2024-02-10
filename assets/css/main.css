@@ -2234,7 +2234,7 @@ input, select, textarea {
 		position: relative;
 	}
 
-		.image:before {
+		/* .image:before {
 			background: url("../../images/bg.png");
 			content: '';
 			display: block;
@@ -2243,7 +2243,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 100%;
-		}
+		} */
 
 		.image img {
 			display: block;
